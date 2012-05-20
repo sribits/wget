@@ -1,0 +1,180 @@
+localcharset.o: localcharset.c ../src/config.h localcharset.h fcntl.h \
+ sys/types.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/sys/types.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/features.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/sys/cdefs.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/wordsize.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/gnu/stubs.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/types.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/typesizes.h \
+ time.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/time.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/include/stddef.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/endian.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/endian.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/byteswap.h \
+ sys/select.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/sys/select.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/select.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/sigset.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/time.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/sys/sysmacros.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/pthreadtypes.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/fcntl.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/fcntl.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/uio.h \
+ sys/stat.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/xlocale.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/sys/stat.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/stat.h \
+ stdio.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/stdio.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/libio.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/_G_config.h \
+ wchar.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/wchar.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/include/stdarg.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/stdio_lim.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/sys_errlist.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/stdio.h \
+ string.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/string.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/string.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/string2.h \
+ stdlib.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/stdlib.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/waitflags.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/waitstatus.h \
+ alloca.h unistd.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/unistd.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/posix_opt.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/environments.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/confname.h \
+ getopt.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/getopt.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/langinfo.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/nl_types.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/locale.h \
+ configmake.h
+
+../src/config.h:
+
+localcharset.h:
+
+fcntl.h:
+
+sys/types.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/sys/types.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/features.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/sys/cdefs.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/wordsize.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/gnu/stubs.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/types.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/typesizes.h:
+
+time.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/time.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/include/stddef.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/endian.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/endian.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/byteswap.h:
+
+sys/select.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/sys/select.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/select.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/sigset.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/time.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/sys/sysmacros.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/pthreadtypes.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/fcntl.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/fcntl.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/uio.h:
+
+sys/stat.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/xlocale.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/sys/stat.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/stat.h:
+
+stdio.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/stdio.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/libio.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/_G_config.h:
+
+wchar.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/wchar.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/include/stdarg.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/stdio_lim.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/sys_errlist.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/stdio.h:
+
+string.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/string.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/string.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/string2.h:
+
+stdlib.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/stdlib.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/waitflags.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/waitstatus.h:
+
+alloca.h:
+
+unistd.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/unistd.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/posix_opt.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/environments.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/confname.h:
+
+getopt.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/getopt.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/langinfo.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/nl_types.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../arm-none-linux-gnueabi//sys-root/usr/include/bits/locale.h:
+
+configmake.h:

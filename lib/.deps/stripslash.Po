@@ -1,0 +1,14 @@
+stripslash.o: stripslash.c ../src/config.h dirname.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/include/stdbool.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/include/stddef.h \
+ dosname.h
+
+../src/config.h:
+
+dirname.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/include/stdbool.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/include/stddef.h:
+
+dosname.h:

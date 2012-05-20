@@ -1,0 +1,11 @@
+quote.o: quote.c ../src/config.h quotearg.h \
+ /home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/include/stddef.h \
+ quote.h
+
+../src/config.h:
+
+quotearg.h:
+
+/home/smalik/arm-gcc/opt/FriendlyARM/toolschain/4.4.3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.3/include/stddef.h:
+
+quote.h:
